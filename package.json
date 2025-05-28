@@ -10,7 +10,9 @@
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
